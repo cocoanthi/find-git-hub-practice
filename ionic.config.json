@@ -1,0 +1,8 @@
+{
+  "name": "FindGitHub-practice",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular",
+  "id": "5621a48b"
+}
